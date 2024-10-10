@@ -1,0 +1,1013 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\qlthucung\\qlthucung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\dichvu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\dichvu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\donhangs\\chitietdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\donhangs\\chitietdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\admin\\qlsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\admin\\qlsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\security\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\security\\appidentitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\security\\appidentityrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\security\\appidentityrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\security\\appidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\security\\appidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\admin\\qldonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\admin\\qldonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\services\\vnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\services\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\services\\ivnpayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\controllers\\dichvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\controllers\\dichvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\donhangs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\security\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\security\\signin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\security\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\security\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\security\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\security\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\admin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\paymentinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\sanpham\\tatcasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\sanpham\\tatcasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\sanpham\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\sanpham\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\sanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\sanpham\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\cart\\dathangthanhcong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\cart\\dathangthanhcong.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\thuvienanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\thuvienanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\paymentresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\khachhangrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\khachhangrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\danhgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\danhgium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\models\\chitietdonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\helpers\\sessionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\admin\\qlchitietdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\admin\\qlchitietdonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\views\\admin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\libraries\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\libraries\\vnpaylibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\migrations\\20230427132902_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\migrations\\20230427132902_identitymigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\migrations\\20230531034245_identitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\migrations\\20230531034245_identitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\migrations\\appidentitydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\migrations\\appidentitydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\migrations\\appdb\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\migrations\\appdb\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|d:\\asp\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\content\\images\\shopping-cart.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44B08327-323A-4E94-A7DF-7708D021E86A}|qlthucung\\qlthucung.csproj|solutionrelative:qlthucung\\wwwroot\\content\\images\\shopping-cart.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppIdentityRole.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Security\\AppIdentityRole.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Security\\AppIdentityRole.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Security\\AppIdentityRole.cs",
+              "RelativeToolTip": "qlthucung\\Security\\AppIdentityRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T07:18:51.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppIdentityDbContext.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Security\\AppIdentityDbContext.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Security\\AppIdentityDbContext.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Security\\AppIdentityDbContext.cs",
+              "RelativeToolTip": "qlthucung\\Security\\AppIdentityDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:08:27.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLSanPham.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\QLSanPham.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Admin\\QLSanPham.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\QLSanPham.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Admin\\QLSanPham.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwGAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:19:12.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChiTietDonHang.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\DonHangs\\ChiTietDonHang.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\DonHangs\\ChiTietDonHang.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\DonHangs\\ChiTietDonHang.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\DonHangs\\ChiTietDonHang.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T16:24:47.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\DichVu\\Index.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\DichVu\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\DichVu\\Index.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\DichVu\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T08:10:39.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAOQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:08:27.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppIdentityUser.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Security\\AppIdentityUser.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Security\\AppIdentityUser.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Security\\AppIdentityUser.cs",
+              "RelativeToolTip": "qlthucung\\Security\\AppIdentityUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T10:14:58.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QLDonHang.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\QLDonHang.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Admin\\QLDonHang.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\QLDonHang.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Admin\\QLDonHang.cshtml",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwGYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:08:27.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "qlthucung\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwFgBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:08:27.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\SanPham.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\SanPham.cs",
+              "RelativeToolTip": "qlthucung\\Models\\SanPham.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:24:16.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Controllers\\SanPhamController.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "qlthucung\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:23:16.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwI0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:08:27.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\Item.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\Item.cs",
+              "RelativeToolTip": "qlthucung\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:39:22.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VnPayService.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Services\\VnPayService.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Services\\VnPayService.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Services\\VnPayService.cs",
+              "RelativeToolTip": "qlthucung\\Services\\VnPayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:14:34.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IVnPayService.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Services\\IVnPayService.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Services\\IVnPayService.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Services\\IVnPayService.cs",
+              "RelativeToolTip": "qlthucung\\Services\\IVnPayService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:14:31.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Program.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Program.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Program.cs",
+              "RelativeToolTip": "qlthucung\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowEQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:08:27.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\DonHangs\\Details.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\DonHangs\\Details.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\DonHangs\\Details.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\DonHangs\\Details.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAIwE0AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T14:15:43.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\Register.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\Register.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\Register.cs",
+              "RelativeToolTip": "qlthucung\\Models\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:22:09.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Controllers\\CartController.cs",
+              "RelativeToolTip": "qlthucung\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAN0AAAAAAAAAAAAgwPYAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:40:51.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Controllers\\SecurityController.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "qlthucung\\Controllers\\SecurityController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:08:27.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DichVuController.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Controllers\\DichVuController.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Controllers\\DichVuController.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Controllers\\DichVuController.cs",
+              "RelativeToolTip": "qlthucung\\Controllers\\DichVuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T08:10:20.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DonHangsController.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Controllers\\DonHangsController.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Controllers\\DonHangsController.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Controllers\\DonHangsController.cs",
+              "RelativeToolTip": "qlthucung\\Controllers\\DonHangsController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:23:04.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\SignIn.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\SignIn.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\SignIn.cs",
+              "RelativeToolTip": "qlthucung\\Models\\SignIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:21:48.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "qlthucung\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwv5QAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:08:27.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAkwJUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:12:38.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AspNetUser.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\AspNetUser.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\AspNetUser.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\AspNetUser.cs",
+              "RelativeToolTip": "qlthucung\\Models\\AspNetUser.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:22:24.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\appsettings.json",
+              "RelativeDocumentMoniker": "qlthucung\\appsettings.json",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\appsettings.json",
+              "RelativeToolTip": "qlthucung\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T15:08:27.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "qlthucung\\appsettings.Development.json",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\appsettings.Development.json",
+              "RelativeToolTip": "qlthucung\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T17:16:14.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Security\\Register.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Security\\Register.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Security\\Register.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Security\\Register.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:08:27.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Security\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Security\\AccessDenied.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Security\\AccessDenied.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Security\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:08:27.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\Details.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Admin\\Details.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\Details.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Admin\\Details.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwD4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:08:27.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SignIn.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Security\\SignIn.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Security\\SignIn.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Security\\SignIn.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Security\\SignIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwCEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T16:40:29.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PaymentInformationModel.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\PaymentInformationModel.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\PaymentInformationModel.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\PaymentInformationModel.cs",
+              "RelativeToolTip": "qlthucung\\Models\\PaymentInformationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:22:11.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-19T07:51:56.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "TatCaSanPham.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\SanPham\\TatCaSanPham.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\SanPham\\TatCaSanPham.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\SanPham\\TatCaSanPham.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\SanPham\\TatCaSanPham.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwFMAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:26:52.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\SanPham\\Search.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\SanPham\\Search.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\SanPham\\Search.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\SanPham\\Search.cshtml",
+              "ViewState": "AQIAACAAAAAAAAAAAAAIwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T01:01:43.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AQIAADsCAAAAAAAAAAAIwFYCAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:15:13.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\SanPham\\Details.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\SanPham\\Details.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\SanPham\\Details.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\SanPham\\Details.cshtml",
+              "ViewState": "AQIAALUAAAAAAAAAAAAIwNUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T01:16:07.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAANUAAAAAAAAAAAAIwPMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:41:03.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DatHangThanhCong.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Cart\\DatHangThanhCong.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Cart\\DatHangThanhCong.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Cart\\DatHangThanhCong.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Cart\\DatHangThanhCong.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T01:42:27.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\ViewModel.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\ViewModel.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\ViewModel.cs",
+              "RelativeToolTip": "qlthucung\\Models\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:21:42.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ThuVienAnh.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\ThuVienAnh.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\ThuVienAnh.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\ThuVienAnh.cs",
+              "RelativeToolTip": "qlthucung\\Models\\ThuVienAnh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:21:44.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PaymentResponseModel.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\PaymentResponseModel.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\PaymentResponseModel.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\PaymentResponseModel.cs",
+              "RelativeToolTip": "qlthucung\\Models\\PaymentResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:22:10.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "KhachHangRole.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\KhachHangRole.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\KhachHangRole.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\KhachHangRole.cs",
+              "RelativeToolTip": "qlthucung\\Models\\KhachHangRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:08:27.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\KhachHang.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\KhachHang.cs",
+              "RelativeToolTip": "qlthucung\\Models\\KhachHang.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAgwDkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:08:27.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "qlthucung\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:39:36.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DonHang.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\DonHang.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\DonHang.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\DonHang.cs",
+              "RelativeToolTip": "qlthucung\\Models\\DonHang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:39:36.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DichVu.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\DichVu.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\DichVu.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\DichVu.cs",
+              "RelativeToolTip": "qlthucung\\Models\\DichVu.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:08:40.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\DanhMuc.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\DanhMuc.cs",
+              "RelativeToolTip": "qlthucung\\Models\\DanhMuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:08:38.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DanhGium.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\DanhGium.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\DanhGium.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\DanhGium.cs",
+              "RelativeToolTip": "qlthucung\\Models\\DanhGium.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:21:01.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ChiTietDonHang.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\ChiTietDonHang.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Models\\ChiTietDonHang.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Models\\ChiTietDonHang.cs",
+              "RelativeToolTip": "qlthucung\\Models\\ChiTietDonHang.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwBwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:08:27.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SessionHelper.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Helpers\\SessionHelper.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Helpers\\SessionHelper.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Helpers\\SessionHelper.cs",
+              "RelativeToolTip": "qlthucung\\Helpers\\SessionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:40:09.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "QLChiTietDonHang.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\QLChiTietDonHang.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Admin\\QLChiTietDonHang.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\QLChiTietDonHang.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Admin\\QLChiTietDonHang.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:16:43.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwD8AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:08:27.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\Edit.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Admin\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-12T01:16:44.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "qlthucung\\Views\\Admin\\Delete.cshtml",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Views\\Admin\\Delete.cshtml",
+              "RelativeToolTip": "qlthucung\\Views\\Admin\\Delete.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAFAAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T15:08:27.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "VnPayLibrary.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Libraries\\VnPayLibrary.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Libraries\\VnPayLibrary.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Libraries\\VnPayLibrary.cs",
+              "RelativeToolTip": "qlthucung\\Libraries\\VnPayLibrary.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:39:56.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20230427132902_IdentityMigration.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Migrations\\20230427132902_IdentityMigration.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Migrations\\20230427132902_IdentityMigration.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Migrations\\20230427132902_IdentityMigration.cs",
+              "RelativeToolTip": "qlthucung\\Migrations\\20230427132902_IdentityMigration.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:39:43.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20230531034245_IdentityTables.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Migrations\\20230531034245_IdentityTables.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Migrations\\20230531034245_IdentityTables.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Migrations\\20230531034245_IdentityTables.cs",
+              "RelativeToolTip": "qlthucung\\Migrations\\20230531034245_IdentityTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:39:50.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "AppIdentityDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Migrations\\AppIdentityDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Migrations\\AppIdentityDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Migrations\\AppIdentityDbContextModelSnapshot.cs",
+              "RelativeToolTip": "qlthucung\\Migrations\\AppIdentityDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:39:52.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Migrations\\AppDb\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "qlthucung\\Migrations\\AppDb\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\Migrations\\AppDb\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "qlthucung\\Migrations\\AppDb\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAOMBAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:38:30.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "shopping-cart.svg",
+              "DocumentMoniker": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\shopping-cart.svg",
+              "RelativeDocumentMoniker": "qlthucung\\wwwroot\\Content\\images\\shopping-cart.svg",
+              "ToolTip": "D:\\ASP\\qlthucung\\qlthucung\\qlthucung\\wwwroot\\Content\\images\\shopping-cart.svg",
+              "RelativeToolTip": "qlthucung\\wwwroot\\Content\\images\\shopping-cart.svg",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-04-12T02:10:51.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
